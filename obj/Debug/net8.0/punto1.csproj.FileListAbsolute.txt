@@ -1,0 +1,14 @@
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\bin\Debug\net8.0\punto1.exe
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\bin\Debug\net8.0\punto1.deps.json
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\bin\Debug\net8.0\punto1.runtimeconfig.json
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\bin\Debug\net8.0\punto1.dll
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\bin\Debug\net8.0\punto1.pdb
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.AssemblyInfoInputs.cache
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.AssemblyInfo.cs
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.csproj.CoreCompileInputs.cache
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.dll
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\refint\punto1.dll
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.pdb
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\punto1.genruntimeconfig.cache
+C:\Users\YEISON\OneDrive\Escritorio\Entregable2C#\punto1\obj\Debug\net8.0\ref\punto1.dll
